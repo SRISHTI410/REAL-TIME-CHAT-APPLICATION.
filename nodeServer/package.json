@@ -1,0 +1,15 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "real time chat applocation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "srishti",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {}
+}
